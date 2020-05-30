@@ -1,0 +1,4 @@
+{
+  "sourceFolder": "/usr/path/to/sales_analysis/data/source",
+  "destinationFolder": "/usr/path/to/sales_analysis/data/destination/Sales.csv"
+}
